@@ -7,7 +7,7 @@ const LoadingBox = ({ className }: LoadingBoxProps) => {
     <>
       <div>
         <div
-          className={`w-[100%] flex justify-center flex-center  text-white ${
+          className={`w-[100%] h-full flex justify-center flex-center  text-white ${
             className ?? ""
           }`}
         >

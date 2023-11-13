@@ -11,7 +11,7 @@ const Search = ({}: SearchProps) => {
           <input
             type="search"
             id="default-search"
-            className="w-full border-2 bg-black pl-6 border-gray-500 placeholder:text-gray-500 rounded-md font-medium text-sm"
+            className="w-full border-2 bg-black pl-6 py-0.5 border-gray-500 placeholder:text-gray-500 rounded-md font-medium text-sm"
             placeholder="Search ..."
             required
           />
